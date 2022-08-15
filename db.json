@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 4891,
+      "text": "sleep more",
+      "isCompleted": false,
+      "priority": "low"
+    },
+    {
+      "id": 6932,
+      "text": "train more",
+      "isCompleted": false,
+      "priority": "medium"
+    },
+    {
+      "id": 7121,
+      "text": "learn react",
+      "isCompleted": false,
+      "priority": "high"
+    }
+  ]
+}
